@@ -18,3 +18,7 @@ The project is carried in two major step :
  <li> Atlast with the help of customized function, i passed my text file and then tokenize the word and replace letter with the handwritting accordingly</li>
   
   ![image](https://user-images.githubusercontent.com/46483403/123950999-ecd17e80-d9c1-11eb-8466-db4ba56a00fe.png)
+<h1>Dataset</h1>
+The IAM Handwriting dataset I have used contains 115,320 isolated and labeled images of words by 657 seperate writers.
+
+IAM words dataset can be downloaded from <a href="https://fki.tic.heia-fr.ch/databases/iam-handwriting-database">here</a>. 
