@@ -8,8 +8,19 @@
 <li>Deep Learning can be a tremendous tool for crime pattern detection. Thus, this effective tool can detect activities which are anomalous or suspicious using Artificial Intelligence.
 </li>
 
-<h2>Algorithmic Approach</h2>
+<h1>Algorithmic Approach</h1>
+
+<li>The model is trained on untrimmed real-time surveillance videos, to which preprocessing techniques are applied by trimming them into 10-30 seconds clips, resizing and normalizing the frames throughout.</li>
+<li>The frames of the videos are then passed in the ConvLSTM2D model.</li>
+<li>The main aim of the model is to understand the abnormal patterns and evaluate it to categorize the footage according to the criminal activity.</li>
+<li>The model is merged with an Interface to bring more clarity and user-friendly approach to it. By taking in the feed from live surveillance in any form our model can generate alerts and also tell the crime taking place so as to provide the severity according to the user. </li>
 
 
-![Media1](https://user-images.githubusercontent.com/46483403/122409778-0a095480-cfa1-11eb-8f17-77583f6495e1.gif) </p>
+
+<h1> Prototype </h1>
+
+
+https://user-images.githubusercontent.com/46483403/177372513-a0868cb9-f645-40c2-994d-fa04e85cd9c0.mp4
+
+
 
