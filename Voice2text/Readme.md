@@ -1,4 +1,5 @@
 This is a tool which convert your voice to electronic handwriting using combination of CNN and RNN
+https://ieeexplore.ieee.org/document/9544925
 
 <h1>Steps</h1>
 The project is carried in two major step :
